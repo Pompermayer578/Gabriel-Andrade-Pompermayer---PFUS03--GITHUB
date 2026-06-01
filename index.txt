@@ -1,2 +1,3 @@
 NOME : GABRIEL ANDRADE POMPERMAYER | TURMA : PFUS-03 | UC : VERSIONAMENTO | INSTRUTOR : DIEGO
 CONTEÚDO : Laboratório de Git & GitHub: Fluxo de Trabalho Profissional
+OBJETIVO : : Praticar o ciclo completo de versionamento, desde a criação local até a colaboração remota e ramificação. 
